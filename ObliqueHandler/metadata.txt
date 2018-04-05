@@ -29,7 +29,7 @@ repository=Github.com/SDFE/ObliqueHandler/repo
 # Tags are comma separated with spaces allowed
 tags=Arial Oblique Images
 
-homepage=Github.com/SDFE/ObliqueHandler/homepage
+homepage=https://github.com/GEO-RS/ObliqueHandler
 category=Plugins
 icon=icon.png
 # experimental flag
