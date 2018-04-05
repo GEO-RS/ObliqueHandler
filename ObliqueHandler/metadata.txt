@@ -16,8 +16,8 @@ email=anfla@sdfe.dk
 
 about=ObliqueHandler is made to help handle Danish Oblique Images gathered and dirstributed by the Danish National Mapping Authority (Agency for Data distribution and Efficiency - SDFE)
 
-tracker=Github.com/SDFE/ObliqueHandler/issues
-repository=Github.com/SDFE/ObliqueHandler
+tracker=Github.com/GEO-RS/ObliqueHandler/issues
+repository=Github.com/GEO-RS/ObliqueHandler
 # End of mandatory metadata
 
 # Recommended items:
